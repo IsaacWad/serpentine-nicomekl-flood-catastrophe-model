@@ -1,0 +1,16 @@
+{
+  "model_source_files_byte_identical": 10,
+  "seven_unmodified_inputs_hash_verified": true,
+  "exposure_geometry_order_crs_required_values_preserved": true,
+  "exposure_features": 2000,
+  "report_byte_identical": true,
+  "archived_results_byte_identical": true,
+  "source_and_notebook_cells_compile": true,
+  "full_simulation_run": false,
+  "geospatial_input_load_and_model_import_check_passed": true,
+  "archived_result_summary_generated": true,
+  "verified_status_counts": {
+    "succeeded": 9996,
+    "failed": 4
+  }
+}

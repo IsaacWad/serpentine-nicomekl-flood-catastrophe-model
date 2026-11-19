@@ -1,0 +1,12 @@
+{
+  "total_events": 10000,
+  "succeeded": 9996,
+  "failed_or_other": 4,
+  "failure_or_other_fraction": 0.0004,
+  "distribution": "gross building loss conditional on a simulated event succeeding",
+  "mean_gross_loss": 1389382.7899088354,
+  "median_gross_loss": 142568.84083519076,
+  "p95_gross_loss": 8518078.228438845,
+  "p99_gross_loss": 21739621.00292622,
+  "max_gross_loss": 33115340.06557724
+}
